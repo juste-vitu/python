@@ -4,18 +4,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="940af4f6-adc9-4689-ac3a-d323a2c9a74d" name="Changes" comment="" />
+    <list default="true" id="940af4f6-adc9-4689-ac3a-d323a2c9a74d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Capitulo 3/Capitulo 2.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Capitulo 3/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Capitulo 3/ghfdgsdhg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programa  2.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programa 2.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2w5W4zMojGnWVlmdH08GBgwQuuF" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -23,6 +38,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Capitulo 2.3.executor": "Run",
+    "Python.Programa  2.1.executor": "Run",
+    "Python.Programa 2.2.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
