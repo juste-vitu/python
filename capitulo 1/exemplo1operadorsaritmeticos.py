@@ -7,8 +7,9 @@ subtracao = 2 - 1
 # operador de multiplicacao
 multiplicacao = 2 * 1
 
-# operador de divisao
+# operador de divisão
 divisao = 2 / 1
 
 # operador de exponenciacao (potencia)
 exponenciacao = 2 ** 1
+
