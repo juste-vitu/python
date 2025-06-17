@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="940af4f6-adc9-4689-ac3a-d323a2c9a74d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/capitulo2/exercicio2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/capítulo3/correcao da lista 1/exercicio1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/capítulo3/correcao da lista 1/exercicio2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,21 +32,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Capitulo 2.3.executor": "Run",
-    "Python.Programa  2.1.executor": "Run",
-    "Python.Programa 2.2.executor": "Run",
-    "Python.exemplo03expressoeseinstrucoes.executor": "Run",
-    "Python.exemplo2valoresetipos.executor": "Run",
-    "Python.exercicio1.executor": "Run",
-    "Python.exercicio2.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/escola/Downloads/PycharmProjects"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Capitulo 2.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Programa  2.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Programa 2.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exemplo03expressoeseinstrucoes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exemplo2valoresetipos.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicio1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercicio2.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/escola/Downloads/atividade&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
