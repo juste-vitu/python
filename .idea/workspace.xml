@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="940af4f6-adc9-4689-ac3a-d323a2c9a74d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/capítulo5/atividades/atividade1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/capítulo5/atividades/atividade2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/capítulo5/atividades/atividade3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/capítulo5/atividades/atividade4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/capítulo5/atividades/atividade5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/capítulo5/atividades/atividade6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/capítulo5/atividades/atividade7.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/capítulo5/atividades/atividade7.py" beforeDir="false" afterPath="$PROJECT_DIR$/capítulo5/atividades/atividade7.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "juste-vitu"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/juste-vitu/python.git",
+    "accountId": "d7998d23-135f-4528-83a6-2e770251a4d3"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -56,8 +62,10 @@
     "Python.exercicio2.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/escola/Downloads/python"
+    "last_opened_file_path": "C:/Users/pc/Downloads/python",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RunManager">
@@ -84,11 +92,33 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="atividade1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/capítulo5/atividades" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/capítulo5/atividades/atividade1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-d68999036c7f-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.14475.56" />
+        <option value="bundled-python-sdk-e0ed3721d81e-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.25410.159" />
       </set>
     </attachedChunks>
   </component>
