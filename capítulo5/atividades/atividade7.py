@@ -1,5 +1,5 @@
 def fahrenheit(celcius):
-    return celcius* 1.8+32
+    return celcius * 1.8 + 32
 
 
 def temperatura(celcius, fahrenheit):
@@ -7,5 +7,5 @@ def temperatura(celcius, fahrenheit):
 
 
 celcius = int(input("Digite alguma temperatura em celcius: "))
-tempFahrenheit = fahrenheit(celcius)
+GrausFahrenheit = fahrenheit(celcius)
 temperatura(celcius,tempFahrenheit)
