@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="940af4f6-adc9-4689-ac3a-d323a2c9a74d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/capítulo5/exercicio1.py" beforeDir="false" afterPath="$PROJECT_DIR$/capítulo5/exercicio1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/capítulo5/atividades/atividade1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/capítulo5/atividades/atividade2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/capítulo5/atividades/atividade3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/capítulo5/atividades/atividade4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/capítulo5/atividades/atividade5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/capítulo5/atividades/atividade6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/capítulo5/atividades/atividade7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +43,13 @@
     "Python.Capitulo 2.3.executor": "Run",
     "Python.Programa  2.1.executor": "Run",
     "Python.Programa 2.2.executor": "Run",
+    "Python.atividade1.executor": "Run",
+    "Python.atividade2.executor": "Run",
+    "Python.atividade3.executor": "Run",
+    "Python.atividade4.executor": "Run",
+    "Python.atividade5.executor": "Run",
+    "Python.atividade6.executor": "Run",
+    "Python.atividade7.executor": "Run",
     "Python.exemplo03expressoeseinstrucoes.executor": "Run",
     "Python.exemplo2valoresetipos.executor": "Run",
     "Python.exercicio1.executor": "Run",
