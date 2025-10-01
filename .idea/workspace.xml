@@ -5,11 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="940af4f6-adc9-4689-ac3a-d323a2c9a74d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/capítulo5/ExerciciosParaProva/ex1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/capítulo5/ExerciciosParaProva/ex2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/capítulo5/ExerciciosParaProva/ex3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/capítulo5/ExerciciosParaProva/ex4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/capítulo5/ExerciciosParaProva/ex10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/capítulo5/ExerciciosParaProva/ex5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/capítulo5/ExerciciosParaProva/ex6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/capítulo5/ExerciciosParaProva/ex7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/capítulo5/ExerciciosParaProva/ex8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/capítulo5/ExerciciosParaProva/ex9.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/capítulo5/ExerciciosParaProva/ex4.py" beforeDir="false" afterPath="$PROJECT_DIR$/capítulo5/ExerciciosParaProva/ex4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +54,11 @@
     "Python.ex2.executor": "Run",
     "Python.ex3.executor": "Run",
     "Python.ex4.executor": "Run",
+    "Python.ex5.executor": "Run",
+    "Python.ex6.executor": "Run",
+    "Python.ex7.executor": "Run",
+    "Python.ex8.executor": "Run",
+    "Python.ex9.executor": "Run",
     "Python.exemplo03expressoeseinstrucoes.executor": "Run",
     "Python.exemplo2valoresetipos.executor": "Run",
     "Python.exercicio1.executor": "Run",
